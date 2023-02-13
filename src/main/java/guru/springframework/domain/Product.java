@@ -5,10 +5,6 @@ import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
-
-/**
- * Created by jt on 1/26/16.
- */
 @Entity
 public class Product {
     @Id

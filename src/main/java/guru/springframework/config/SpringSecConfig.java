@@ -7,9 +7,6 @@ import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter;
 import org.springframework.security.web.util.matcher.AntPathRequestMatcher;
 
-/**
- * Created by jt on 2/2/16.
- */
 @Configuration
 public class SpringSecConfig extends WebSecurityConfigurerAdapter {
 

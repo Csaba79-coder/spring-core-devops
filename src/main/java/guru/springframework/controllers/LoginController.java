@@ -8,10 +8,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 import javax.validation.Valid;
 
-
-/**
- * Created by jt on 2/2/16.
- */
 @Controller
 public class LoginController {
 

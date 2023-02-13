@@ -84,6 +84,10 @@
 			</plugin>
 		</plugins>
 	</build>
-	
+
+	<scm>
+		<developerConnection>scm:git:git@github.com:Csaba79-coder/spring-core-devops</developerConnection>
+		<tag>HEAD</tag>
+	</scm>
 
 </project>

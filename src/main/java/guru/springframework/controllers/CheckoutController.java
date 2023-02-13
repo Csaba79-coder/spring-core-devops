@@ -9,10 +9,6 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 import javax.validation.Valid;
 
-/**
- * Created by jt on 2/1/16.
- */
-
 @Controller
 public class CheckoutController {
 

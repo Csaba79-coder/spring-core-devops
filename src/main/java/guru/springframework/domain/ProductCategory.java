@@ -2,10 +2,6 @@ package guru.springframework.domain;
 
 import javax.persistence.*;
 import java.util.Date;
-
-/**
- * Created by jt on 1/26/16.
- */
 @Entity
 public class ProductCategory {
 

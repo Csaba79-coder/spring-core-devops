@@ -12,10 +12,6 @@ import org.springframework.context.event.ContextRefreshedEvent;
 import org.springframework.stereotype.Component;
 
 import java.math.BigDecimal;
-
-/**
- * Created by jt on 5/6/16.
- */
 @Component
 public class DevOpsBootstrap implements ApplicationListener<ContextRefreshedEvent> {
 
